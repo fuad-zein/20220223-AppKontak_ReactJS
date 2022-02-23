@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Notes
+
+1. Menggunakan [`json-server`](https://github.com/typicode/json-server) untuk pengganti json-fake
+2. Menggunakan tambahakan [`Redux Dev Tools`](https://github.com/zalmoxisus/redux-devtools-extension) pada ext. Chrome
+3. Referensi pembelajaran dari [`Youtube Wahidev Academy`](https://youtube.com/playlist?list=PLIan8aHxsPj082k6ZLyqJPCJESBG-C_Lw)
