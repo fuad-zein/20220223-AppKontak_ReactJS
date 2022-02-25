@@ -74,3 +74,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1. Menggunakan [`json-server`](https://github.com/typicode/json-server) untuk pengganti json-fake
 2. Menggunakan tambahakan [`Redux Dev Tools`](https://github.com/zalmoxisus/redux-devtools-extension) pada ext. Chrome
 3. Referensi pembelajaran dari [`Youtube Wahidev Academy`](https://youtube.com/playlist?list=PLIan8aHxsPj082k6ZLyqJPCJESBG-C_Lw)
+
+<hr/>
+<br/>
+
+**Isi dari json-server**
+
+```json
+{
+  "kontak": [
+    {
+      "nama": "Hendro",
+      "nohp": "08928228299",
+      "id": 1
+    },
+    {
+      "nama": "Ana",
+      "nohp": "08568229199",
+      "id": 2
+    },
+    {
+      "nama": "Tri",
+      "nohp": "0896722881",
+      "id": 3
+    },
+    {
+      "nama": "kucing",
+      "nohp": "0822717717",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nama": "Puspa",
+      "nohp": "08568229199"
+    },
+    {
+      "id": 6,
+      "nama": "Doni Pratama",
+      "nohp": "089292818"
+    }
+  ]
+}
+```
